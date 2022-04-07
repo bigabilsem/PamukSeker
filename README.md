@@ -1,2 +1,2 @@
 # PamukSeker
-Pamuk Şeker (Cotton White) is a custom Arduino board.
+Pamuk Şeker (Cotton White) is a Atmega328 based board.
